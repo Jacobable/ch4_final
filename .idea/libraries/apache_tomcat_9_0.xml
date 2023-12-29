@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-9.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../libFolder/apache-tomcat-9.0.75-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../libFolder/apache-tomcat-9.0.75-lib" recursive="false" />
+  </library>
+</component>
